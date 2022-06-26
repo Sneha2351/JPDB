@@ -1,4 +1,4 @@
-# JPDB_Web_Form
+# JPDB
 *In this repository, the candidate will learn about basics of JsonPowerDB (JPDB) and how to use JPDB for simple database operations. Candidate will learn CRUD and some more important API commands that will be usefull to create a dynamic website or mobile app.*
 
 ## About JsonPowerDB
@@ -15,7 +15,7 @@
 *  CRUD Operations
    * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%206.jpeg">GET</a>
    * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%205.jpeg">PUT</a>
-   * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%207.jpeg">DELETE</a>
+   * <a href= "<https://github.com/Sneha2351/JPDB/blob/main/Screenshots/DELETE.png">DELETE</a>
    * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%208.jpeg">UPDATE</a>
 *  Web Form
 
