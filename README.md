@@ -13,10 +13,10 @@
 
 ## Table of contents
 *  CRUD Operations
-   * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%206.jpeg">GET</a>
-   * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%205.jpeg">PUT</a>
+   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/GET.png">GET</a>
+   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/PUT.png">PUT</a>
    * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/DELETE.png">DELETE</a>
-   * <a href= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%208.jpeg">UPDATE</a>
+   * <a href= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/UPDATE.png">UPDATE</a>
 *  Web Form
 
 ## Project Status
