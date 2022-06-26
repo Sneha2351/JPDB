@@ -20,9 +20,10 @@
 *  Web Form
 
 ## Project Status
-<img src= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%201.jpeg">
-<img src= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%204.jpeg">
-<img src= "https://github.com/Sneha2351/JPDB_Web_Form/blob/main/All%20screenshots/JPDB%202.jpeg">
+<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/Dashboard.png">
+<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/Employee.png">
+<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/SAMPLE.png">
+<img src= "https://github.com/Sneha2351/JPDB/blob/main/Screenshots/WebForm localhost.png">
 
 ## Sources
 * <a href= "http://login2explore.com/jpdb/docs.html">Documentation Link</a>
